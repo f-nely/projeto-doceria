@@ -284,4 +284,15 @@ section {
     width: 180px;
 }
 
+/* footer */
 
+footer {
+    height: 100px;
+    padding-top: 150px;
+    color: #2790C6;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+}
